@@ -10,6 +10,16 @@
 		<link rel="preconnect" href="https://fonts.googleapis.com">
   </head>
   <script>
+		p.nanum-myeongjo-regular {
+	  font-family: "Nanum Myeongjo", serif;
+	  font-weight: 400;
+	  font-style: normal;
+	}
+		h1.bebas-neue-regular {
+  	font-family: "Bebas Neue", sans-serif;
+  	font-weight: 400;
+  	font-style: normal;
+	}
   </script>
   
 </http>
